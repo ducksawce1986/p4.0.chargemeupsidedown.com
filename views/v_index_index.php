@@ -4,9 +4,9 @@
 
 	<div class="footer">
 			
-			<h1><a> Welcome! Try out our Boston gig earnings calculator below.<br>
+			<h2><a> Welcome! Try out our Boston gig earnings calculator below.<br>
 			
-			-Gain access to the community by signing up for an account and logging in-</a></h1>
+			-Gain access to the community by signing up for an account and logging in-</a></h2>
 
 	</div>
 
