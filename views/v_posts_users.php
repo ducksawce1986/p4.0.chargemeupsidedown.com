@@ -1,4 +1,14 @@
-<html>
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+	<title>Users' Posts</title>
+
+</head>
+
+<body>
 
 	<?php foreach($users as $user): ?>
 
@@ -15,5 +25,7 @@
 		<?php endif; ?><br><br>
 
 	<?php endforeach ?>
+
+</body>
 
 </html>

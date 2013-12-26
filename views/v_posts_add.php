@@ -1,4 +1,14 @@
-<html>
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+	<title>Add Posts</title>
+
+</head>
+
+<body>
 
 	<form method='post' action='/posts/p_add'>
 
@@ -15,5 +25,7 @@
 		<h2>It's time for you to speak up.</h2><br>
 
 	</div>
+
+</body>
 
 </html>

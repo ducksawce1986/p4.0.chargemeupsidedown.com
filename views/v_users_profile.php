@@ -1,4 +1,14 @@
-<html>
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <title>Users' Profiles</title>
+
+</head>
+
+<body>
 
     <?php if($user): ?> 
         
@@ -6,7 +16,7 @@
 
     <p>You've been a member of Charge Me UP since <?= date('F j, Y', $user->created) ?> </p><br>
 
-    <p>Your comments</p>
+    <p><u>Your comments:</u></p><br>
 
     <!-- User's Posts Appearing Below -->
     <div id="infobox_posts">
@@ -52,6 +62,8 @@
 
     <?php endif; ?> 
 
-    <br><a href='/'><img src="http://www.elamjung.com/image/from%20the%20stage%20%20Katmanu,%20Nepal.jpg" alt="Stage Left"></a>
+    <br><br><a href='/'><img src="http://www.elamjung.com/image/from%20the%20stage%20%20Katmanu,%20Nepal.jpg" alt="Stage Left"></a>
+
+</body>
 
 </html>

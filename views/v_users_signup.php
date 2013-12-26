@@ -1,4 +1,14 @@
-<html>
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+	<title>Signup</title>
+
+</head>
+
+<body>
 
 	<h2>Sign Up</h2>
 
@@ -15,5 +25,7 @@
 		<input type='submit' value='Sign Up Now'>
 
 	</form>
+
+</body>
 
 </html>

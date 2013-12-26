@@ -1,4 +1,14 @@
-<html>
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+	<title>Posts Index</title>
+
+</head>
+
+<body>
 
 	<?php foreach($posts as $post): ?>
 
@@ -7,5 +17,7 @@
         	<?=nl2br($post['content'])?><br><br>
         
 	<?php endforeach; ?>
+
+</body>
 
 </html>

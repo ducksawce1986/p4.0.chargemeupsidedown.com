@@ -1,4 +1,12 @@
-<html>
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+	<title>Landing Page</title>
+
+</head>
 
 <body>
 
@@ -6,7 +14,7 @@
 			
 			<br><h4> Welcome! Try out our Boston gig earnings calculator below.<br><br>
 			
-			Gain access to the community by signing up for an account and logging in.</h4>
+			Access our community by signing up for an account and then logging in.</h4>
 
 	</div>
 
@@ -32,8 +40,10 @@
 		
 		</span>
 
+		<p>*press again to return to options</p>
+
 		<div class="tent">
-			<h2>Step 2: <em>Given our suggestions, what venue would you like to play at?</em></h2>
+			<h2>Step 2: <em>Given our suggestions, what venue(s) would you like to play at?</em></h2>
 			
 			<p id='obriens'><input type='checkbox' name='venues' value='100'>O'brien's Pub</p>
 		
@@ -100,7 +110,7 @@
 
 	<div class="footer">
 		
-		<p2><span id="outcome"><p1>You'll make $<span id='output'></span> per group member</p1></span></p>
+		<p><span id="outcome">You'll make $<span id='output'></span> per group member</span></p>
         
     </div>
 

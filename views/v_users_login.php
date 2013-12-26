@@ -1,4 +1,14 @@
-<html>
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+	<title>Login Page</title>
+
+</head>
+
+<body>
 
 	<h2>Log in</h2>
 
@@ -11,5 +21,7 @@
 		<input type='Submit' value='Log in'>
 
 	</form>
+
+</body>
 
 </html>
